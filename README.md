@@ -1,10 +1,8 @@
-### Hi there 👋 I'm Ömer
-I am a Business Analyst.
+                                                 ### Hi there 👋 I'm Ömer
+I am a Business Analyst. 
 I can describe myself as a person who is personal and professional, extremely curious, and focused on lifelong learning in all aspects of life.
 
-I love investigating and solving complex SQL queries. Here I will try to give examples of these queries.
-
-I also love cooking with my family, running on the trail, and being physically active.
+I love investigating and solving complex SQL queries. Here, I will try to give examples of these queries.
 
 I have been continuing my professional career as a Business Analyst in the field of Software Development for about 12 years.
 <!--
