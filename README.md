@@ -1,10 +1,8 @@
-                                                 ### Hi there 👋 I'm Ömer
-I am a Business Analyst. 
-I can describe myself as a person who is personal and professional, extremely curious, and focused on lifelong learning in all aspects of life.
+<h1 align="center">Hey there, I'm Ömer</h1>
+<h3 align="center"><strong>I am a Business Analyst.</strong></h3>
+<p>I love investigating and solving complex SQL queries. Here, I will try to give examples of these queries.
 
-I love investigating and solving complex SQL queries. Here, I will try to give examples of these queries.
-
-I have been continuing my professional career as a Business Analyst in the field of Software Development for about 12 years.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerertug)
 <!--
 **omertug/omertug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
