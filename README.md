@@ -8,20 +8,13 @@ Professional with over 15 years of experience in the **Insurance industry**, spe
 ### 🛡️ Insurance Domain Expertise
 * **Life & Pension (BES):** Digital transformation of sales and onboarding flows.
 * **Non-Life Insurance:** Policy issuance, claims management, and reinsurance processes.
-* **Regulatory Compliance:** Hands-on experience with SEDDK, SBM, and preparation for the **EU AI Act**.
+* **Regulatory Compliance:** Hands-on experience with SEDDK, SBM, MASAK and preparation for the **EU AI Act**.
 
 ### 🛠️ Technical Toolkit
 * **Analysis:** Requirements Elicitation, User Stories, BPMN 2.0, UML.
 * **Technical:** SQL (Data Analysis), API Mapping (REST/SOAP), JSON/XML.
 * **Tools:** Jira, Confluence, Postman, Swagger, Visio, Figma.
 * **Methodology:** Agile, Scrum, Kanban, MVP Definition.
-
----
-
-### 📈 Key Impact Metrics
-* **Efficiency:** Achieved **50% operational speed increase** by digitizing physical signature processes.
-* **Performance:** Accelerated policy issuance by **30%** through technical API optimizations.
-* **Growth:** Delivered a web-service-supported infrastructure resulting in a **30% production increase**.
 
 ---
 
