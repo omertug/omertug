@@ -1,7 +1,7 @@
 # Hi there, I'm Ömer Ertuğ! 👋
 ### Senior Technical Business Analyst | Insurance Domain Expert
 
-Professional with over 15 years of experience in the **Insurance industry**, specializing in bridging the gap between complex business requirements and high-performance technical solutions.
+Professional with over 10 years of experience in the **Insurance industry**, specializing in bridging the gap between complex business requirements and high-performance technical solutions.
 
 ---
 
@@ -26,5 +26,5 @@ Professional with over 15 years of experience in the **Insurance industry**, spe
 ### 📫 Reach Me
 * **LinkedIn:** [linkedin.com/in/omerertug/](https://www.linkedin.com/in/omerertug/) 
 * **Email:** omer.ertug@outlook.com 
-* **Location:** Istanbul, Turkey (Open to opportunities in Ireland or UK) 
+* **Location:** Istanbul, Turkey (Open to opportunities) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerertug)
