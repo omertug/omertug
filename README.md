@@ -1,5 +1,5 @@
 # Hi there, I'm Ömer Ertuğ! 👋
-### Senior Technical Business Analyst | Insurance Domain Expert | Team Lead Candidate
+### Senior Technical Business Analyst | Insurance Domain Expert
 
 Professional with over 15 years of experience in the **Insurance industry**, specializing in bridging the gap between complex business requirements and high-performance technical solutions.
 
