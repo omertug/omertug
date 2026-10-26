@@ -19,7 +19,7 @@ Professional with over 15 years of experience in the **Insurance industry**, spe
 ---
 
 ### 📂 Featured Analysis Portfolios (Sample Repositories)
-* **[Insurance-BA-SQL-Library](https://github.com/omertug/Insurance-BA-SQL-Library):** A collection of complex SQL queries for policy and claims data analysis (Anonymized).
+* **[BA-SQL-Library]([https://github.com/omertug/Pagila-DVD-Rental-Company):** A collection of complex SQL queries for policy and claims data analysis (Anonymized).
 * **[API-Specification-Samples]:** Examples of REST/SOAP API mapping documents and JSON schemas for Insurance integrations.
 * **[Business-Process-Models]:** BPMN 2.0 flowcharts for Policy Lifecycle and Digital Onboarding.
 
